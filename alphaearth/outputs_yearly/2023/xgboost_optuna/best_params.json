@@ -1,0 +1,62 @@
+{
+  "pH值": {
+    "k_features": 57,
+    "n_estimators": 195,
+    "max_depth": 4,
+    "learning_rate": 0.04256321231245939,
+    "subsample": 0.6035258216847887,
+    "colsample_bytree": 0.5983923583697845,
+    "min_child_weight": 4.338583056388233,
+    "gamma": 0.17823451352432457,
+    "reg_alpha": 0.011370527179365904,
+    "reg_lambda": 11.282731411822791
+  },
+  "全碳(g/kg)": {
+    "k_features": 52,
+    "n_estimators": 683,
+    "max_depth": 2,
+    "learning_rate": 0.01119009493909902,
+    "subsample": 0.6621034327087105,
+    "colsample_bytree": 0.69280017923254,
+    "min_child_weight": 1.600779576319798,
+    "gamma": 1.6019051973711707,
+    "reg_alpha": 0.0004977985914784486,
+    "reg_lambda": 0.8937033471945484
+  },
+  "有机碳(g/kg)": {
+    "k_features": 41,
+    "n_estimators": 814,
+    "max_depth": 5,
+    "learning_rate": 0.03417099485077333,
+    "subsample": 0.6031515701807155,
+    "colsample_bytree": 0.6125887104168158,
+    "min_child_weight": 1.1093436609515404,
+    "gamma": 0.2519634755226319,
+    "reg_alpha": 0.03257001442175351,
+    "reg_lambda": 0.835869096319018
+  },
+  "容重(g/cm3)": {
+    "k_features": 18,
+    "n_estimators": 722,
+    "max_depth": 2,
+    "learning_rate": 0.06965369803517797,
+    "subsample": 0.8614194468253991,
+    "colsample_bytree": 0.9711058430451989,
+    "min_child_weight": 3.3359074155964596,
+    "gamma": 0.17333628600459208,
+    "reg_alpha": 0.0011723834424705577,
+    "reg_lambda": 0.5821894698990157
+  },
+  "N(g/kg)": {
+    "k_features": 62,
+    "n_estimators": 518,
+    "max_depth": 4,
+    "learning_rate": 0.0803629895982806,
+    "subsample": 0.7426359142783837,
+    "colsample_bytree": 0.6802781747382224,
+    "min_child_weight": 3.5392046972493643,
+    "gamma": 3.3160976881724413,
+    "reg_alpha": 0.31163440913595036,
+    "reg_lambda": 0.5955418842548829
+  }
+}

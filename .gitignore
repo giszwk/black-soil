@@ -1,4 +1,9 @@
 .claude/*
+.agents/*
 .venv/*
 
 bishe/*
+
+.pdf
+
+.DS_Store
